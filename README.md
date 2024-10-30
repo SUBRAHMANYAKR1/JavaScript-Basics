@@ -32,3 +32,5 @@ Variables declared inside a { } block cannot be accessed from outside the block
 
 Local Scope Function Scope:
 Variables declared within a JavaScript function, are LOCAL to the function and can be accessed inside the function.
+
+Day3 of Basics of javascript
